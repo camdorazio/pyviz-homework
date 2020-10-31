@@ -1,0 +1,3 @@
+From command line: panel serve dashboard_final.ipynb --log-level debug --show
+
+Website: http://localhost:5006/dashboard_final
